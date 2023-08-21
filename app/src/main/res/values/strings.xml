@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ViewPager</string>
+    <string name="skip_intro">Skip Intro</string>
+    <string name="next">Next</string>
+    <string name="nameLogo">DIORDER</string>
+    <string name="Copyright">Copyright©2023.Design By: Herni Hartati</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cart">Add To Chart</string>
+    <string name="favorite">Add To Fav</string>
+    <string name="delete">Delete</string>
+</resources>
